@@ -1,0 +1,2 @@
+# Brot
+Bitcoin Bot Repo
